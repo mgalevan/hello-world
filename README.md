@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi everyone!
+
+Majo here, looking forward to learn and develop new skills related to data science.
